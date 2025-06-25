@@ -21,7 +21,7 @@ This repository showcases my work from **Deloitte Australia's Data Analytics Vir
 *Above is the screenshot of the Tableau dashboard I created.*
 
 ## Certificate: 🏆  
-![Certificate](https://github.com/user-attachments/assets/5d0a003b-570a-433a-8c0e-e2aa425458d7)  
+![Certificate]()  
 *The certificate I received upon completing the virtual experience.*
 
 
